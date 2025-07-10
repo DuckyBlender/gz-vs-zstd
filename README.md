@@ -12,7 +12,7 @@ cargo run --release
 
 ![Results](results.png)
 
-[Watch it run](recording.mov)
+![Watch it run](recording.mov)
 
 ## Output
 
